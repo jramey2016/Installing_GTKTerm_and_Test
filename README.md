@@ -21,4 +21,4 @@ We use GTK Term to communicate with the serialport. GTK term features: serial po
  
  ![config](https://user-images.githubusercontent.com/72533453/129467916-1406d773-9d91-43b9-81e6-c5a8465fe163.PNG)
 
-4.) Now that you have that all set, you are ready to run a bare metal application you will be able to follow along in the tutorial [here](#) and test out GTKTerm.
+4.) Now that you have that all set, you are ready to run a bare metal application you will be able to follow along in the tutorial [here](https://github.com/jramey2016/Ultra96V2_Blinky) and test out GTKTerm.
