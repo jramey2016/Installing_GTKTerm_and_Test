@@ -10,10 +10,9 @@ We use GTK Term to communicate with the serialport. GTK term features: serial po
 
 1.) Launch your terminal and enter the gollowing commands"
 
-     ```
     sudo apt update
     sudo apt install gtkterm
-    ```
+
  2.) Next, we will configure the settings for the Ultra96V2. Make sure that you board in correctly hooked up to your computer. We will start by going to Devices > USB > Xilinx JTAG+Serial[0700], click this option and launch GTK Term.
  
  ![USB config](https://user-images.githubusercontent.com/72533453/129467839-e82eaafd-c3bb-41c7-b2db-7dfb6909b177.png)
