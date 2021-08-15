@@ -3,6 +3,9 @@ This is a quick and simple comprehesive tutorial on how to install GTKTerm onto 
 
 We use GTK Term to communicate with the serialport. GTK term features: serial port window, Serial Port Setup (speed, parity, bits, etc), send RAW data, congigurations to control lines manually (DTR, CTS), and reads the state of the control lines (RTS,CD,DSR,RI).
 
+## Pre-requisites
+- [Setting up VM Environment](../virtual_machine_setup/tutorial.md)
+
 # Steps
 
 1.) Launch your terminal and enter the gollowing commands"
