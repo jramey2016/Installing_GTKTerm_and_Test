@@ -10,7 +10,7 @@ We use GTK Term to communicate with the serialport. GTK term features: serial po
 
 1.) Launch your terminal and enter the gollowing commands"
 
-     ```bash
+     ```
     sudo apt update
     sudo apt install gtkterm
     ```
